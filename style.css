@@ -1,0 +1,28 @@
+body{
+  background:black;
+  color:white;
+  text-align:center;
+  font-family:arial;
+}
+h1{
+  font-size:5rem;  
+}
+a{
+  color:white;
+  text-decoration:none;}
+
+#sec1, #sec2, #sec3{
+  padding-top:30%;
+  display:block;
+}
+.disable{
+  color:gray;
+}
+/*Scroller using Unicode html as icon*/
+.scroller{
+  position:fixed;
+  padding-left:48%;
+}
+.scroller span{
+  font-size:3rem; 
+}
